@@ -2,7 +2,7 @@
 
 ## Proteins as the bottlenecks in drug discovery
 
-Evolution has provided biology with just twenty canonical amino acids, yet from this limited alphabet emerges the full diversity of protein structures and functions found in nature. This constraint is not merely a biochemical curiosity - it defines the boundaries of what has historically been considered “druggable”.
+Evolution has provided biology with just twenty canonical amino acids, yet from this limited alphabet emerges the full diversity of protein structures and functions found in nature. This constraint is not merely a biochemical curiosity — it defines the boundaries of what has historically been considered “druggable”.
 
 A large fraction of therapeutically relevant targets are proteins whose biological properties challenge classical drug discovery long before medicinal chemistry begins. Many of these targets are membrane proteins, operating at the interface between aqueous and lipid environments. Their function depends on specific lipid contexts, conformational dynamics, and transient states that are difficult to preserve during expression, purification, and structural characterization. As a result, the protein used for assays or structure determination often fails to reflect its biologically relevant form.
 
