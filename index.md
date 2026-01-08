@@ -1,2 +1,0 @@
-# ProteinLogic
-It Works!
